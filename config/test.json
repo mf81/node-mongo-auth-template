@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "MaciejFijałkowski",
+  "NODE_ENV": "",
+  "db": "mongodb://localhost/app_auth_template_tests",
+  "PORT": "3001"
+}
