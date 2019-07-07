@@ -12,7 +12,7 @@ module.exports = function() {
   };
   mongoose.connect(db, settings, function(err, dbref) {
     if (!err) {
-      loggerWinston().info(`Mongodb connected to MongoDB`);
+      loggerWinston().info(`Mongodb connected to MongoDB ${db}`);
     } else {
       loggerWinston().error(`Error while connecting to mongoDB ${err}`);
     }

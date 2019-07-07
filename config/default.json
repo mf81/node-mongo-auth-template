@@ -1,5 +1,5 @@
 {
-  "jwtPrivateKey": "",
-  "NODE_ENV": "",
-  "db": "mongodb://localhost/app_auth_template"
+  "jwtPrivateKey": "Maciek-default",
+  "db": "mongodb://localhost/app_auth_template",
+  "PORT": "3000"
 }

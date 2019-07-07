@@ -1,4 +1,5 @@
 {
   "jwtPrivateKey": "app_auth_jwtPrivateKey",
-  "db": "app_auth_dbString"
+  "db": "app_auth_dbString",
+  "PORT": "APP_NODE_PORT"
 }
